@@ -1,5 +1,9 @@
 ![Magic Eight Ball Demo](https://github.com/daverydan/magic-eight-ball/blob/master/public/magic-eight-ball.png)
 
+<p align="center">
+  <img src="https://github.com/daverydan/magic-eight-ball/blob/master/public/magic-eight-ball.png">
+</p>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
