@@ -1,4 +1,5 @@
 import React from "react";
+import "./App.css";
 import EightBall from "./EightBall";
 
 const answers = [
@@ -26,8 +27,8 @@ const answers = [
 
 const App = () => (
   <>
-    <h1 style={{ color: "black", fontFamily: "Lobster", fontSize: '68px', textAlign: 'center', margin: '30px 0 -30px' }}>Magic</h1>
-    <h1 style={{ color: "black", fontFamily: "Lobster", fontSize: '48px', textAlign: 'center', marginBottom: '40px' }}>Eight Ball</h1>
+    <h1>Magic</h1>
+    <h3>Eight Ball</h3>
     <EightBall answers={answers} />
   </>
 );
