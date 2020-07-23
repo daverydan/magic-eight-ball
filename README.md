@@ -1,4 +1,4 @@
-[See Demo](https://github.com/daverydan/magic-eight-ball)
+[See Demo](https://daverydan.github.io/magic-eight-ball/)
 
 <p align="center">
   <img src="https://github.com/daverydan/magic-eight-ball/blob/master/public/magic-eight-ball.png">
