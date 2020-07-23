@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/magic-eight-ball/precache-manifest.105a032bbcabf4e87dcf893f27dd755d.js"
+  "/magic-eight-ball/precache-manifest.87d4a0c5b5d75f76f563557011c44d53.js"
 );
 
 self.addEventListener('message', (event) => {

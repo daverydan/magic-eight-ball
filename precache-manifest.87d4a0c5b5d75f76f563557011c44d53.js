@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "374e56ff0a11ad8fda5bcaad04ffed64",
+    "revision": "c602f0c743a260bf4b2af7acb8d10d0d",
     "url": "/magic-eight-ball/index.html"
   },
   {
-    "revision": "a05c00c006a60d3b4e29",
-    "url": "/magic-eight-ball/static/css/main.db1f9613.chunk.css"
+    "revision": "9652ad456a5bb96f0a40",
+    "url": "/magic-eight-ball/static/css/main.7dc7558b.chunk.css"
   },
   {
     "revision": "6a94b56bddecd484f014",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/magic-eight-ball/static/js/2.f236db9e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a05c00c006a60d3b4e29",
-    "url": "/magic-eight-ball/static/js/main.8a161f34.chunk.js"
+    "revision": "9652ad456a5bb96f0a40",
+    "url": "/magic-eight-ball/static/js/main.ce81d025.chunk.js"
   },
   {
     "revision": "ae068f0e22904820114e",
