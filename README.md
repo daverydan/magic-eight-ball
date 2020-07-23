@@ -1,3 +1,5 @@
+![Magic Eight Ball Demo](https://octodex.github.com/images/yaktocat.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
