@@ -1,0 +1,55 @@
+.EightBallRecord {
+  list-style: none;
+  margin: auto;
+  padding: 0;
+  width: fit-content;
+}
+
+.EightBallRecord li {
+  border-radius: 50%;
+  display: inline-block;
+  font-family: sans-serif;
+  font-size: 12px;
+  height: 50px;
+  margin: 0 5px;
+  position: relative;
+  width: 50px;
+}
+
+.EightBallRecord li.green {
+  background: radial-gradient(circle at 50px 50px, green, #000);
+}
+
+.EightBallRecord li.goldenrod {
+  background: radial-gradient(circle at 50px 50px, goldenrod, #000);
+}
+
+.EightBallRecord li.red {
+  background: radial-gradient(circle at 50px 50px, red, #000);
+}
+
+.EightBallRecord li span {
+  background: #fff;
+  border-radius: 50%;
+  display: block;
+  height: 25px;
+  left: 50%;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 25px;
+}
+
+.EightBallRecord li.green span {
+  color: green;
+}
+
+.EightBallRecord li.goldenrod span {
+  color: goldenrod;
+}
+
+.EightBallRecord li.red span {
+  color: red;
+}

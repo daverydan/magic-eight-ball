@@ -1,0 +1,35 @@
+.EightBall {
+  background: radial-gradient(circle at 100px 100px, #444, #000);
+  border-radius: 50%;
+  cursor: pointer;
+  font-family: sans-serif;
+  height: 300px;
+  margin: 0 auto 50px;
+  position: relative;
+  width: 300px;
+}
+
+.EightBall-window {
+  border: 2px solid #000;
+  border-radius: 50%;
+  height: 150px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 150px;
+  -webkit-box-shadow: inset 0px 0px 30px 20px rgba(255, 255, 255, 0.3);
+  -moz-box-shadow: inset 0px 0px 30px 20px rgba(255, 255, 255, 0.3);
+  box-shadow: inset 0px 0px 30px 20px rgba(255, 255, 255, 0.3);
+}
+
+.EightBall p {
+  color: #fff;
+  left: 50%;
+  margin: 0;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 130px;
+}

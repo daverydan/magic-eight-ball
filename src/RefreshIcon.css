@@ -1,0 +1,36 @@
+.RefreshIcon {
+  margin: 50px auto;
+  position: relative;
+  width: fit-content;
+}
+
+.RefreshIcon:after {
+  background: radial-gradient(circle at 50px 50px, #fff, #d4d4d4);
+  border-radius: 50%;
+  content: "";
+  display: block;
+  height: 50px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 50px;
+  z-index: -1;
+}
+
+.RefreshIcon i {
+  font-size: 22px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  transition: all 0.2s ease-in-out;
+}
+
+.RefreshIcon:hover {
+  cursor: pointer;
+}
+
+.RefreshIcon:hover i {
+  transform: rotate(180deg) scale(1.2) translate(42%, 42%);
+}
